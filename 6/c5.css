@@ -1,0 +1,10 @@
+h1 {text-align: center}
+h2 {text-decoration: underline}
+h1.red{color : red}
+h1.pin{color : pink}
+h2.gre{color : green}
+h2.yel{color : yellow}
+h2.blu{color : blue}
+h2.pur{color : purple}
+h2.gra{color : gray}
+p#id{text-decoration: line-through}

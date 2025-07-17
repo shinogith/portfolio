@@ -1,0 +1,13 @@
+h1 {color : red}
+h2 {color : green}
+p.c{color : magenta}
+a:link{color : purple; text-decoration: underline}
+a:hover{color : orange;}
+a:visited{color : crimson;}
+p{text-indent:1em}
+*{line-height:2}
+#obld{font-family:sans-serif;font-style : oblique; font-weight: 600}
+p#f{font:italic small-caps 900 12pt/2 serif}
+body{background-color:lightgoldenrodyellow;background-image:url("haikei.png");background-repeat:repeat;background-size:contain;background-attachment:scroll;background-position:top;}
+#mg{margin-left:50px ;margin-right: 40%;}
+.bs{border-style:dotted ;border-top-width:thin ;border-bottom-color:cyan ;}

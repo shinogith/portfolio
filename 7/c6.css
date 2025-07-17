@@ -1,0 +1,7 @@
+h1 {text-align : center;font-size:40pt}
+h2{line-height:2;text-decoration: underline;color : blue;font:900 24pt/2 serif}
+a:link{color : blue; text-decoration: underline}
+a:visited{color : red;text-decoration: underline}
+a:hover{color : yellow;text-decoration: underline;font-size:18pt}
+a:active{color : greenyellow;text-decoration: underline}
+p{line-height:2;text-indent:1em;}
