@@ -1,0 +1,28 @@
+//以下Calc.java
+
+package calcapp.main;
+import calcapp.logics.CalcLogic;
+
+public class Calc {
+	public static void main(String[] args){
+		int result;
+		result = CalcLogic.multiply(3,2);
+		System.out.println(result);
+	}
+}
+
+//以下CalcLogic.java
+
+package calcapp.logics;
+
+public class CalcLogic {
+	public static int add(int x,int y){
+		return x + y;
+	}
+	public static int subtract(int x,int y){
+		return x - y;
+	}
+	public static int multiply(int x,int y){
+		return x * y;
+	}
+}
