@@ -1,0 +1,1 @@
+SELECT 日付, 費目 FROM 家計簿;
