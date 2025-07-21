@@ -1,0 +1,4 @@
+BEGIN;
+DELETE FROM 家計簿;
+COMMIT;
+SELECT * FROM 家計簿;

@@ -1,0 +1,3 @@
+BEGIN;
+UPDATE 成績 SET 評価 = '不可';
+ROLLBACK;
