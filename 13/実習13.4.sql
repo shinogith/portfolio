@@ -1,0 +1,3 @@
+INSERT INTO 費目 VALUES (1,'食費');
+INSERT INTO 費目 VALUES (2,'食費');
+SELECT * FROM 費目;

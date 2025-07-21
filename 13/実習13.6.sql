@@ -1,0 +1,1 @@
+UPDATE 費目 SET ID=2 WHERE ID=1;
