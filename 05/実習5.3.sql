@@ -1,0 +1,1 @@
+SELECT DISTINCT カテゴリ, 名称 FROM 買い物リスト;

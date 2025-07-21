@@ -1,0 +1,1 @@
+SELECT 日付,date(日付,'-10 days') AS '10日前',費目 FROM 家計簿;
