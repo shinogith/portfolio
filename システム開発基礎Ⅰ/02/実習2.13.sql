@@ -1,0 +1,3 @@
+INSERT INTO 都道府県(コード, 都道府県名, 県庁所在地) 
+VALUES (40, '福岡', '福岡');
+SELECT * FROM 都道府県;

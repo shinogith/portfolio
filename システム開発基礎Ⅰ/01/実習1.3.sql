@@ -1,0 +1,1 @@
+SELECT メモ FROM 家計簿;
