@@ -1,0 +1,2 @@
+SELECT 出金額,入金額 FROM 家計簿
+ ORDER BY 1 DESC, 2 DESC;

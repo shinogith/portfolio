@@ -1,0 +1,10 @@
+SELECT メールアドレス,
+ CASE WHEN 年齢 BETWEEN 20 AND 29 THEN '20代'
+  WHEN 年齢 BETWEEN 30 AND 39 THEN '30代'
+  WHEN 年齢 BETWEEN 40 AND 49 THEN '40代'
+  WHEN 年齢 BETWEEN 50 AND 59 THEN '50代'
+END ||':'||
+ CASE WHEN 性別 = 'M' THEN '男性'
+  WHEN 性別 = 'F' THEN '女性'
+ END AS 属性
+FROM 回答者;

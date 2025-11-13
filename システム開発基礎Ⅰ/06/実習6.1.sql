@@ -1,0 +1,3 @@
+SELECT * FROM 美味しい棒1 
+UNION ALL
+SELECT * FROM 美味しい棒2 ORDER BY 味 ASC;

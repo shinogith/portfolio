@@ -1,0 +1,6 @@
+SELECT CURRENT_TIME;
+SELECT CURRENT_DATE;
+
+SELECT date(CURRENT_DATE,'localtime');
+SELECT time(CURRENT_TIME,'localtime');
+SELECT datetime(CURRENT_DATE, CURRENT_TIME, 'localtime');

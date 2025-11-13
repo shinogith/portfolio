@@ -1,0 +1,2 @@
+SELECT * FROM 家計簿集計
+ ORDER BY 合計 DESC;
