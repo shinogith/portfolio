@@ -1,0 +1,2 @@
+UPDATE 家計簿 SET 費目ID=999 WHERE 日付='2019-12-31';
+SELECT * FROM 家計簿;
