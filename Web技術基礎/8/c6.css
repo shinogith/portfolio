@@ -1,0 +1,6 @@
+h1 {text-align : center;font-size:40pt;background-color:yellow}
+h2{line-height:2;text-decoration: underline;color : blue;font:900 24pt/2 serif}
+p.bclb{background-color : skyblue;font-size:30pt;}
+p.bcp{background-color : pink;font-size:30pt;}
+p.bco{background-color : orange;font-size:30pt;}
+p{line-height:2;text-indent:1em;color : blue;font-family: serif;}

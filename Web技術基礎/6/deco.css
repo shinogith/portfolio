@@ -1,0 +1,16 @@
+h1 {color : red}
+h2 {color : green}
+p.c{color : blue}
+.oln{text-decoration: overline}
+p#id{color : pink; text-decoration: line-through}
+h2#chs{text-align : center}
+a:link{color : purple; text-decoration: underline}
+a:hover{color : orange; text-decoration: line-through}
+p{text-indent:1em}
+*{line-height:2}
+p#fnt{font-family:Papyrus;font-size:larger}
+#obld{font-family:serif;font-style : oblique; font-weight: 600}
+p#f{font:italic small-caps 900 40pt/2 serif}
+body{background-image:url("bird.png"),url("sea.jpg");background-repeat:repeat;background-size:contain;background-attachment:scroll;background-position:top;}
+#mg{margin-left:50px ;margin-right: 50px;}
+.bs{border-style:dotted ;border-top-width:thin ;border-top-color:skyblue ;}
